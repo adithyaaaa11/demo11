@@ -1,3 +1,3 @@
 def function():
-    print("HALLO")
+    print("HAi")
 function()
